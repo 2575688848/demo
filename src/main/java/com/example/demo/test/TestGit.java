@@ -9,5 +9,7 @@ public class TestGit {
         System.out.println("哈哈哈");
         
         System.out.println("远端加入一行测试代码");
+        
+        System.out.println("远端加入第二行测试代码");
     }
 }
