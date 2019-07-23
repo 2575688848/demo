@@ -14,5 +14,7 @@ public class Main {
         UseFunctionService useFunctionService = context.getBean(UseFunctionService.class);
         System.out.println(useFunctionService.sayHello("Java Config"));
         context.close();
+
+        System.out.println("Main加入一行测试代码");
     }
 }
