@@ -6,7 +6,8 @@
 .classpath
 .factorypath
 .project
-.settings
+.settings/
+*.class
 .springBeans
 .sts4-cache
 .DS_Store
@@ -19,7 +20,7 @@
 
 ### NetBeans ###
 /nbproject/private/
-/build/
+build/
 /nbbuild/
 /dist/
 /nbdist/
